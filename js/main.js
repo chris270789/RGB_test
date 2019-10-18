@@ -1,0 +1,1 @@
+$('#carouselExampleInterval').carousel()

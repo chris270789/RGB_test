@@ -1,0 +1,4 @@
+[2019-10-17 15:22:00] layer "+7 342 225-00-75 ": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-10-17 15:22:00] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-10-17 15:22:00] layer "hello@ckdigital.ru": Unsupported extension: ru
+[2019-10-17 15:22:00] layer "+7 (___) ___-__-__": Expected Either a default asset specification or a layer asset specification but "+" found.
